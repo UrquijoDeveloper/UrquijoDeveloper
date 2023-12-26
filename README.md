@@ -14,7 +14,7 @@ Hello! I'm Pedro Brandon Urquijo Canizales, a student of Computer Systems Engine
 - **Programming Languages:** C# and Java.
 - **Technologies:** Visual Studio.
 - **Web Development:** ASP.NET.
-- **Databases:** SQL.
+- **Databases:** Microsoft Acess.
 
 ...
 
