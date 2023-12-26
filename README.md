@@ -1,6 +1,4 @@
 
-Certainly! Here's the translated version in English:
-
 Welcome to my GitHub profile 👋
 Hello! I'm Pedro Brandon Urquijo Canizales, a student of Computer Systems Engineering with a passionate interest in software development and technology. My focus is on creating innovative and efficient solutions for real-world challenges.
 
